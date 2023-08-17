@@ -1,0 +1,15 @@
+@charset "UTF-8";
+.my-card{
+    padding: 20px;
+}
+body{
+	background:#e2e2e2!important;
+	
+}
+.bg-primary{
+	background: #009688 !important;
+	
+}
+table{
+	border: 1px;
+}
